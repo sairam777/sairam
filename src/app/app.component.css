@@ -1,0 +1,15 @@
+body {
+    background: silver;
+}
+
+h1 {
+    color: blue;
+}
+
+h3 {
+    color: green;
+}
+
+li {
+    list-style: none;
+}
